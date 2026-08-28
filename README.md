@@ -12,10 +12,11 @@ ${{\color{#1fc497} fyi\ the\ text\ is\ scrollable\ to\ those\ who\ need\ it}}$
       <td>
 <div align="center">
   
-   ${\textsf{\color{#0b7655}i\ go\ by\ isaac}}$ ${\textsf{\color{#108460}　  ️  ️i\ use\ any\ pronouns,\ i\ can't\ be\ bothered\ by\ what\ you\ call\ me.}}$
+######   ${\textsf{\color{#0b7655}i\ go\ by\ isaac}}$ ${\textsf{\color{#108460}　  ️  ️i\ use\ any\ pronouns,\ i\ can't\ be\ bothered\ by\ what\ you\ call\ me.}}$
         
-   ${\textsf{\color{#29a57f}i\ kin\ itrapped\ :D}}$ ${\textsf{\color{#128c67}　  ️  ️you\ can\ talk\ to\ me\ anytime\ you\ want,\ the\ only\ problem\ is\ i'm\ mostly\ busy.}}$
-        </td>
+######   ${\textsf{\color{#29a57f}i\ kin\ itrapped\ :D}}$ ${\textsf{\color{#128c67}　  ️  ️you\ can\ talk\ to\ me\ anytime\ you\ want,\ the\ only\ problem\ is\ i'm\ mostly\ busy.}}$
+
+  </td>
     </tr>
   </table> 
   
