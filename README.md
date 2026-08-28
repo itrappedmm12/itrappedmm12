@@ -35,7 +35,7 @@ ${{\color{#2ad7a8} also,\ communicate\ if\ i\ ever\ did\ or\ said\ anything\ tha
 
 </details>
 
-<div align="right">
+<div align="left">
   
 </details> 
 
