@@ -1,1 +1,2 @@
-i'll remake this soon :D
+<p align="center">
+i'll remake this soon
