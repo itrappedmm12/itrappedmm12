@@ -1,3 +1,6 @@
+<div align="center">
+${\textsf{\color{#0b7655}fyi\ the\ text\ is\ scrollable\ to\ those\ who\ need\ it}}$ ${\textsf{\color{#108460}
+
 <img width="2000" height="650" alt="image" src="https://github.com/user-attachments/assets/85b7df4e-8d47-4f05-b79e-cb77d2a931b7" />
 
 <img width="100" height="170" alt="image" align="left" src="https://github.com/user-attachments/assets/bb3ccddc-9692-4fe6-bf88-1f6c71b6c486" />
