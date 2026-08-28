@@ -69,6 +69,22 @@ ${{\color{#54e0ba} you\ can\ always\ talk\ to\ me\ about\ your\ own\ interests\ 
     </tr>
   </table> 
 
+<div align="right">
+
+  <br>  
+  <table>
+    <tr>
+      <td>
+
+  <div align="right">
+
+${{\color{#18be91} i\ am\ a\ bit\ shy\ at\ first\ and\ may\ appear\ rude\ at\ times\ and\ even\ dismissive,\ i\ promise\ i\ don't\ mean\ it.}}$
+
+${{\color{#27d1a3} i'm\ diagnosed\ with\ adhd\ and\ one\ other\ chronic\ illness\ i'm\ not\ comfortable\ speaking\ about}}$
+
+   </td>
+    </tr>
+  </table> 
 
  
 
