@@ -24,7 +24,7 @@ ${{\color{#1fc497} fyi\ the\ text\ is\ scrollable\ to\ those\ who\ need\ it}}$
   
    <div align="center">
      
-${\textsf{\color{#29a57f}do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't\ willing\ to\ respect\ my\ boundaries.}}$ ${\textsf{\color{#29a57f}just\ have\ common\ sense\ please...}}$
+${\textsf{\color{#29a57f}do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't}}$ ${\textsf{\color{#29a57f}willing\ to\ respect\ my\ boundaries.}}$ ${\textsf{\color{#29a57f}just\ have\ common\ sense\ please...}}$
 
 <div align="left">
   
