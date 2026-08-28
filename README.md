@@ -24,6 +24,7 @@ ${\textsf{\color{#29a57f}do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't
 
 <div align="center">
 
+
 </details> 
 
 <details closed>
