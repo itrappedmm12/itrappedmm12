@@ -24,11 +24,11 @@ ${\textsf{\color{#29a57f}do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't
 
 <div align="center">
 
-
-</details> 
+</details>
 
 <details closed>
-  <summary> ${{\color{#f9f0b1} read\ me}}$</summary>
+  
+  <summary> <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/b155167a-db80-4809-a0c7-1166eea4731c" /> ${{\color{#f9f0b1} read\ me}}$ </summary> 
 
 ${{\color{#1fc497} i\ tend\ to\ keep\ my\ distance\ from\ people,\ so\ please\ tell\ me\ if\ that\ bothers\ you\ and\ i'll\ try\ my\ best\ to\ avoid\ doing\ that.}}$
 ${{\color{#2ad7a8} also,\ communicate\ if\ i\ ever\ did\ or\ said\ anything\ that\ led\ you\ to\ becoming\ upset.\ i\ will\ immediately\ stop.}}$
