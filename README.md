@@ -84,7 +84,7 @@ ${{\color{#54e0ba} you\ can\ always\ talk\ to\ me\ about\ your\ own\ interests\ 
 
 ${{\color{#18be91} i\ am\ a\ bit\ shy\ at\ first\ and\ may\ appear\ rude\ at\ times\ and\ even\ dismissive,\ i\ promise\ i\ don't\ mean\ it.}}$
 
-${{\color{#27d1a3} i'm\ diagnosed\ with\ adhd\ and\ one\ other\ chronic\ illness\ i'm\ not\ comfortable\ speaking\ about}}$
+${{\color{#27d1a3} i'm\ diagnosed\ with\ adhd\ and\ one\ other\ chronic\ illness\ i'm\ not\ comfortable\ speaking\ about.}}$
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a12422b3-de46-4de3-96fc-0d4a67dc253e" />
 
