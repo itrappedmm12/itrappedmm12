@@ -49,7 +49,7 @@ ${{\color{#22cd9e} i\ have\ a\ lovely\ boyfriend\ <3}}$
 
 <div align="center">
 
-<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/b1e3d5e6-f434-4fab-a522-4bbb4a1c83d8" />
+<img width="900" height="150" alt="image" src="https://github.com/user-attachments/assets/b1e3d5e6-f434-4fab-a522-4bbb4a1c83d8" />
 
 <div align="left">
 
