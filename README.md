@@ -6,11 +6,12 @@ ${{\color{#1fc497} fyi\ the\ text\ is\ scrollable\ to\ those\ who\ need\ it}}$
 
 <img width="100" height="170" alt="image" align="left" src="https://github.com/user-attachments/assets/bb3ccddc-9692-4fe6-bf88-1f6c71b6c486" />
 
-  <br>  
+   <br>  
   <table>
     <tr>
       <td>
-     ${\textsf{\color{#0b7655}i\ go\ by\ isaac}}$ ${\textsf{\color{#108460}　  ️  ️i\ use\ any\ pronouns,\ i\ can't\ be\ bothered\ by\ what\ you\ call\ me.}}$
+
+   ${\textsf{\color{#0b7655}i\ go\ by\ isaac}}$ ${\textsf{\color{#108460}　  ️  ️i\ use\ any\ pronouns,\ i\ can't\ be\ bothered\ by\ what\ you\ call\ me.}}$
         
    ${\textsf{\color{#29a57f}i\ kin\ itrapped\ :D}}$ ${\textsf{\color{#128c67}　  ️  ️you\ can\ talk\ to\ me\ anytime\ you\ want,\ the\ only\ problem\ is\ i'm\ mostly\ busy.}}$
         </td>
