@@ -5,4 +5,4 @@
   <table>
     <tr>
       <td>
-     ${\textsf{\color{#3c65ab} Wip}}$
+     ${\textsf{\color{#3c65ab} wip}}$
