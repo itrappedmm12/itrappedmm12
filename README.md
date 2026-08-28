@@ -2,7 +2,7 @@
   
 ${{\color{#1fc497} fyi\ the\ text\ is\ scrollable\ to\ those\ who\ need\ it}}$
 
-##### ${{\color{#1fc497} best\ viewed\ on\ pc,\ sorry\ mobile\ users}}$
+-- ${{\color{#1fc497} best\ viewed\ on\ pc,\ sorry\ mobile\ users}}$ --
 
 <img width="2000" height="650" alt="image" src="https://github.com/user-attachments/assets/85b7df4e-8d47-4f05-b79e-cb77d2a931b7" />
 
