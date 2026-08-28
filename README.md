@@ -15,7 +15,7 @@
   
    <div align="center">
      
-${\textsf{\color{#29a57f}do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't\ willing\ to\ respect\ my\ boundaries.\ you'll\ get\ blocked\ anyway.}}$
+${\textsf{\color{#29a57f}do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't\ willing\ to\ respect\ my\ boundaries.}}$
 
 <div align="left">
   
