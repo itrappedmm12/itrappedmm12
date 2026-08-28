@@ -106,7 +106,7 @@ ${{\color{#27d1a3} i'm\ diagnosed\ with\ adhd\ and\ one\ other\ chronic\ illness
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fleur+De+Leah&size=25&pause=1000&color=1E8A82AE&width=435&lines=I+can+see+it+in+your+eyes%2C+that+you+wanna+get+out.;I+can+see+it+in+your+eyes%2C+that+you+need+it+right+now.++%E2%99%A1" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=itrappedmm12&style=flat-square&color=0b7655&label=$$$" alt="profile view counter" width="50" align="center">
+<img src="https://komarev.com/ghpvc/?username=itrappedmm12&style=flat-square&color=0b7655&label=$" alt="profile view counter" width="50" align="center">
 
 <img width="2000" height="650" alt="image" src="https://github.com/user-attachments/assets/22628eca-cd2c-4e38-9d06-2d1e7b1cdceb" />
 
