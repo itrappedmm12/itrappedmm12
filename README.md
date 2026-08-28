@@ -40,7 +40,7 @@ ${{\color{#2ad7a8} also,\ communicate\ if\ i\ ever\ did\ or\ said\ anything\ tha
 </details> 
 
 <details closed>
-  <summary> ${{\color{#fff8cb} extra}}$</summary>
+  <summary> <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3a9168ae-3c48-4c51-8453-9bec2b6c1b7b" /> ${{\color{#fff8cb} extra}}$ </summary>
 
 ${{\color{#46e1b7} i\ draw,\ write,\ and\ i'm\ currently\ learning\ how\ to\ code\ atm.\ i\ have\ a\ lot\ of\ hobbies\ but\ these\ are\ just\ my\ main\ ones..\ :,)}}$
 ${{\color{#22cd9e} i\ have\ a\ lovely\ boyfriend\ <3}}$
