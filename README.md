@@ -12,9 +12,9 @@ ${{\color{#1fc497} fyi\ the\ text\ is\ scrollable\ to\ those\ who\ need\ it}}$
       <td>
 <div align="center">
   
-######   ${\textsf{\color{#0b7655}i\ go\ by\ isaac}}$ ${\textsf{\color{#108460}　  ️  ️i\ use\ any\ pronouns,\ i\ can't\ be\ bothered\ by\ what\ you\ call\ me.}}$
+######   ${\textsf{\color{#0b7655}i\ go\ by\ isaac}}$ ${\textsf{\color{#108460}　  ️  ️i\ use\ any\ pronouns,\ i\ can't\ be}}$ ${\textsf{\color{#108460}bothered\ by\ what\ you\ call\ me.}}$
         
-######   ${\textsf{\color{#29a57f}i\ kin\ itrapped\ :D}}$ ${\textsf{\color{#128c67}　  ️  ️you\ can\ talk\ to\ me\ anytime\ you\ want,\ the\ only\ problem\ is\ i'm\ mostly\ busy.}}$
+######   ${\textsf{\color{#29a57f}i\ kin\ itrapped\ :D}}$ ${\textsf{\color{#128c67}　  ️  ️you\ can\ talk\ to\ me\ anytime\ you\ want,}}$ ${\textsf{\color{#128c67} the\ only\ problem\ is\ i'm\ mostly\ busy.}}$
 
 <img width="50" height="70" alt="Untitled938_20260828202159" src="https://github.com/user-attachments/assets/99951079-49a8-4431-a0f4-4d9f323a12a7" />
 
