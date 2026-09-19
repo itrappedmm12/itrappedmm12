@@ -102,7 +102,10 @@ ${{\color{#d1c1eb} I\ may\ come\ off\ passive-agressive\ when\ I'm\ stressed\ an
 ${{\color{#d1c1eb} I\ promise\ I\ don't\ mean\ it\ and\ my\ intentions\ are\ never\ to\ upset\ someone\ if\ I\ do\ so.}}$
      </td>
     </tr>
-  </table>   
+  </table>  
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itrappedmm12&style=flat-square&color=d1c1eb&label=$" alt="profile view counter" width="50" align="center">
   
 <p align="left">
 <img width="350" height="400" alt="Untitled28_20260919143416" src="https://github.com/user-attachments/assets/1a8f2823-2400-4b40-95a7-bc73a3fdffbd" />
