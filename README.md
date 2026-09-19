@@ -23,6 +23,7 @@
    <div align="center">
      
 ${\textsf{\color{#d1c1eb}Do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't}}$ ${\textsf{\color{#d1c1eb}willing\ to\ respect\ my\ boundaries.}}$ ${\textsf{\color{#d1c1eb}Just\ have\ common\ sense\ please...}}$
+
 <img width="70" height="70" alt="Untitled19_20260918131130" src="https://github.com/user-attachments/assets/3edfdad9-1acb-4d2e-99c6-ba3e25398941" />
 
 
