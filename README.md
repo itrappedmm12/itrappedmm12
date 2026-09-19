@@ -18,7 +18,7 @@
   
 ######   ${\textsf{\color{#d1c1eb}I\ go\ by\ isaac}}$ ${\textsf{\color{#d1c1eb}　  ️  ️I\ use\ any\ pronouns\ but\ he/him\ is\ preferred!}}$
         
-######  ${\textsf{\color{#d1c1eb}　  ️  ️You\ can\ talk\ to\ me\ anytime\ you\ want,}}$ ${\textsf{\color{#d1c1eb} the\ only\ problem\ is\ I'm\ mostly\ busy\ so\ I'm\ sorry\ if\ I\ don't\ respond}}$
+######  ${\textsf{\color{#d1c1eb}　  ️  ️You\ can\ talk\ to\ me\ anytime\ you\ want,}}$ ${\textsf{\color{#d1c1eb} the\ only\ problem\ is\ I'm\ mostly\ busy}}$ ${\textsf{\color{#d1c1eb} so\ I'm\ sorry\ if\ I\ don't\ respond}}$
 
 
 <img width="70" height="70" alt="Untitled19_20260918131130" src="https://github.com/user-attachments/assets/3edfdad9-1acb-4d2e-99c6-ba3e25398941" />
