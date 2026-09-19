@@ -1,4 +1,6 @@
 <p align="center">
+  ${{\color{#d1c1eb} fyi\ the\ text\ is\ scrollable\ to\ those\ who\ need\ it}}$
+
 <img width="1000" height="400" alt="Untitled27_20260919143052" src="https://github.com/user-attachments/assets/6bdd01ae-b20c-4287-ae1e-e52bc6448aba" />
 
 <img width="350" height="400" alt="image" align="right" alt="Untitled28_20260919143406" src="https://github.com/user-attachments/assets/ba0019f7-0dba-43da-b836-bc7a1662a2d7" />
