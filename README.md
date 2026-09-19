@@ -20,9 +20,6 @@
         
 ######  ${\textsf{\color{#d1c1eb}　  ️  ️You\ can\ talk\ to\ me\ anytime\ you\ want,}}$ ${\textsf{\color{#d1c1eb} the\ only\ problem\ is\ I'm\ mostly\ busy\ so\ I'm\ sorry\ if\ I\ don't\ respond}}$
 
-   <div align="center">
-     
-${\textsf{\color{#d1c1eb}Do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't}}$ ${\textsf{\color{#d1c1eb}willing\ to\ respect\ my\ boundaries.}}$ ${\textsf{\color{#d1c1eb}Just\ have\ common\ sense\ please...}}$
 
 <img width="70" height="70" alt="Untitled19_20260918131130" src="https://github.com/user-attachments/assets/3edfdad9-1acb-4d2e-99c6-ba3e25398941" />
 
@@ -30,13 +27,16 @@ ${\textsf{\color{#d1c1eb}Do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't
   </td>
     </tr>
   </table> 
+  
+   <div align="center">
+     
+ ${\textsf{\color{#d1c1eb}Do\ not\ bother\ interacting\ with\ me\ if\ you\ aren't}}$ ${\textsf{\color{#d1c1eb}willing\ to\ respect\ my\ boundaries.}}$ ${\textsf{\color{#d1c1eb}Just\ have\ common\ sense\ please...}}$
 
   <div align="left">
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gafata&size=18&duration=3300&pause=500&color=d1c1eb&center=true&width=435&height=28&lines=So,+for+once+in+my+life%2C+let+me+get+what+I+want.;Lord+knows%2C+it+would+be+the+last+time.;Lord+knows%2C+it+would+be+the+first+time." alt="Typing SVG" width="370px"/></a> <img width="70" height="70" alt="image" align="right" alt="Untitled19_20260918125201" src="https://github.com/user-attachments/assets/264478bb-e159-4bc4-bf21-db1a33c46744" />
 
 </details>
-
 <details closed>
   
   <summary> <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/b155167a-db80-4809-a0c7-1166eea4731c" /> ${{\color{#d1c1eb} read\ me}}$ </summary> 
