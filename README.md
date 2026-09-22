@@ -101,7 +101,7 @@ ${{\color{#d1c1eb} but\ you\ can\ always\ talk\ to\ me\ about\ your\ own\ intere
 
 ${{\color{#d1c1eb} I\ enjoy\ and\ value\ alone\ time\ a\ lot,\ please\ respect\ my\ privacy\ aswell}}$
 
-${{\color{#d1c1eb} I\ may\ come\ off\ passive-agressive\ when\ I'm\ stressed\ and\ even\ a\ bit\ dismissive.}}$
+${{\color{#d1c1eb} I\ may\ come\ off\ as\ passive-agressive\ when\ I'm\ stressed\ and\ even\ a\ bit\ dismissive.}}$
 ${{\color{#d1c1eb} I\ promise\ I\ don't\ mean\ it\ and\ my\ intentions\ are\ never\ to\ upset\ someone\ if\ I\ ever\ do\ so.}}$
      </td>
     </tr>
