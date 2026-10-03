@@ -107,9 +107,10 @@ ${{\color{#d1c1eb} I\ promise\ I\ don't\ mean\ it\ and\ my\ intentions\ are\ nev
     </tr>
   </table>  
 
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itrappedmm12&style=flat-square&color=d1c1eb&label=$" alt="profile view counter" width="50" align="center">
   
 <p align="left">
 <img width="350" height="400" alt="Untitled28_20260919143416" src="https://github.com/user-attachments/assets/1a8f2823-2400-4b40-95a7-bc73a3fdffbd" />
 
+  
+<p align="center">
+<img width="1000" height="400" alt="Untitled27_20260919142830" src="https://github.com/user-attachments/assets/71969e5f-b2d3-4658-9ccf-03abb56e993f" />
