@@ -113,6 +113,3 @@ ${{\color{#d1c1eb} I\ promise\ I\ don't\ mean\ it\ and\ my\ intentions\ are\ nev
 <p align="left">
 <img width="350" height="400" alt="Untitled28_20260919143416" src="https://github.com/user-attachments/assets/1a8f2823-2400-4b40-95a7-bc73a3fdffbd" />
 
-
-<p align="center">
-<img width="1000" height="400" alt="Untitled27_20260919142830" src="https://github.com/user-attachments/assets/b3f2aa87-836c-4ecf-b47b-5ba5d42cfb71" />
