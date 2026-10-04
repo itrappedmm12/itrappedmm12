@@ -60,7 +60,7 @@ ${{\color{#d1c1eb} I\ have\ a\ lovely\ boyfriend\ <3}}$
 
 
 <p align="center">
-<img width="300" height="170" alt="Untitled30_20260919144345" src="https://github.com/user-attachments/assets/b641c22a-a8c9-48cb-9e5b-7b2ba2bad097" />
+<img width="280" height="150" alt="Untitled12_20261004210140" src="https://github.com/user-attachments/assets/c4e6a557-8b3d-430f-8a84-1a969006d6bb" />
 
 <img width="90" height="90" alt="image" align="left" alt="Untitled19_20260918124913" src="https://github.com/user-attachments/assets/e0d275c6-5670-4963-b195-4043df93da03" />
 
