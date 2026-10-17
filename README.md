@@ -9,6 +9,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gafata&size=18&duration=3300&pause=500&color=d1c1eb&center=true&width=435&height=28&lines=Suguru!;Have+you+lost+weight?;You+okay?" alt="Typing SVG" width="370px"/></a> 
 
+<p align="center">
 
 <br>  
   <table>
